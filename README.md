@@ -4,11 +4,8 @@ TextMe is an Android/iOS social messaging app, which allows user to send message
 
 ## UI
 
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true">
-    <source src="https://drive.google.com/file/d/14eSR5Lxn99xMUoCRbu-Oewc0KYmOlnUT/view?usp=sharing" type="video/mp4">
-  </video>
-</figure>
+[UI Demo video][another-identifier]
+[another-idetifier]:https://drive.google.com/file/d/14eSR5Lxn99xMUoCRbu-Oewc0KYmOlnUT/view?usp=sharing
 
 
 
